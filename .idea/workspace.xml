@@ -86,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/swjd/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="325">
+              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -171,10 +171,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1117" />
-    <option name="y" value="5" />
+    <option name="x" value="771" />
     <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectId" id="1c3uT69RhBkHgBe6Mlb5TOEowSg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -465,7 +464,7 @@
       <workItem from="1589769607274" duration="15306000" />
       <workItem from="1589934188845" duration="4571000" />
       <workItem from="1589959366359" duration="715000" />
-      <workItem from="1590112606581" duration="8680000" />
+      <workItem from="1590112606581" duration="9726000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1590125532858</created>
@@ -481,16 +480,30 @@
       <option name="project" value="LOCAL" />
       <updated>1590125754530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试">
+      <created>1590125889316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590125889316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试">
+      <created>1590126006690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590126006690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11240000" />
+    <option name="totallyTimeSpent" value="12286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="894" y="4" width="784" height="832" extended-state="0" />
+    <frame x="618" y="0" width="784" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3140496" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3140496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -509,8 +522,8 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013774" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.4986226" visible="true" weight="0.33094555" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" />
@@ -711,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/swjd/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="325">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
